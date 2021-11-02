@@ -1,0 +1,20 @@
+h2{
+    color:black;
+    font-family:inherit;
+    text-align: center;
+    font-size: 40px;
+}
+table{
+    font-family:monospace;
+    background-color:whitesmoke;
+    border-collapse:collapse;
+    border-width:5px;
+    border-style:solid;
+    border-color:darkred;
+}
+
+th{
+    font-weight: 800;
+    background-color:red;
+    color:powderblue;
+}
